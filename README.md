@@ -11,7 +11,6 @@ Different versions of Logstash are located at the github repo [branches](https:/
 ## Usage
 
 ### Build the image
-
 To create the image `frodenas/logstash`, execute the following command on the `docker-logstash` folder:
 
 ```
